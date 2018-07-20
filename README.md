@@ -2,7 +2,7 @@
 
 This is a technical test I had to do once. The idea was to develop a server with a simple REST API without using any kind of framework.
 
-#WHAT?
+# WHAT?
 
 - The server must have to entry points:
     - one which will allow to add new events to the system.
